@@ -74,7 +74,7 @@ LightmapSettings:
     m_MixedBakeMode: 2
     m_BakeBackend: 2
     m_PVRSampling: 1
-    m_PVRDirectSampleCount: 32
+    m_PVRDirectSampleCount: 256
     m_PVRSampleCount: 500
     m_PVRBounces: 4
     m_PVREnvironmentSampleCount: 500
@@ -82,7 +82,7 @@ LightmapSettings:
     m_PVRFilteringMode: 2
     m_PVRDenoiserTypeDirect: 0
     m_PVRDenoiserTypeIndirect: 0
-    m_PVRDenoiserTypeAO: 0
+    m_PVRDenoiserTypeAO: 3
     m_PVRFilterTypeDirect: 0
     m_PVRFilterTypeIndirect: 0
     m_PVRFilterTypeAO: 0
@@ -96,7 +96,7 @@ LightmapSettings:
     m_PVRFilteringAtrousPositionSigmaAO: 1
     m_ExportTrainingData: 0
     m_TrainingDataDestination: TrainingData
-    m_LightProbeSampleCountMultiplier: 4
+    m_LightProbeSampleCountMultiplier: 256
   m_LightingDataAsset: {fileID: 112000000, guid: b739dac51276aea4a9fbdeae95a99680,
     type: 2}
   m_UseShadowmask: 1
